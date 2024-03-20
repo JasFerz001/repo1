@@ -59,7 +59,7 @@
                                         <span class="mini-stat-icon bg-blue-grey mr-0 float-right"><i class="mdi mdi-black-mesa"></i></span>
                                         <div class="mini-stat-info">
                                             <span id="Autores_registradas" class="counter text-blue-grey">0</span>
-                                            Autores Registrados
+                                            Autores Registrados miau!
                                         </div>
                                         <div class="clearfix"></div>
                                     </div>
